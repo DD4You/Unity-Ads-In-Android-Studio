@@ -13,7 +13,7 @@ import com.unity3d.services.banners.UnityBanners;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String unityGameID = "3556774";
+    private String unityGameID = "123456";
     private Boolean testMode = true;
     private String banner_id = "baner1";
     private String interstitial_id = "interstitial1";
